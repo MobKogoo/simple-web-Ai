@@ -1,0 +1,6 @@
+{
+  "name": "კადენცია — ციფრული სტუდია",
+  "description": "თანამედროვე მუქი თემის ადაპტირებული ვებგვერდი iPhone-ისა და Android-ის მოწყობილობებისთვის.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
